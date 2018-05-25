@@ -1,0 +1,32 @@
+Tr? l?i câu h?i:
+1.
+- What is Boolean?
+Ki?u Boolean là true ho?c false.
+Trong Python, hai giá tr? tr? v? là True và False (ch? vi?t hoa ph?i chính xác nhu
+du?c hi?n th?) và tên g?i là ki?u bool.
+- Write down 3 different expression that results a Boolean type (i.e. 5 == 6)
+a. "Dong" == "NgoTheDong"
+b. 5 == (3 + 2)
+c. age = 20
+   age_able_to_get_married = age >=18
+
+2.
+- What is a flow chart? Draw flow chart for the following code snippet: (you can draw on a paper, take a picture of it)
+3.
+- What is nested conditionals?
+Ði?u ki?n l?ng nhau!
+- Write a piece of code that uses nested conditionals
+
+import getpass
+user = "qweqwe"
+password = "123123"
+u = input("User: ")
+p = getpass.getpass('Pass:')
+if u == user:
+    if p == password:
+        print("Welcom, c4e")
+    else:
+        print("Wrong password, please try again")      
+if u != user:
+    print("No such user, go away")
+    
