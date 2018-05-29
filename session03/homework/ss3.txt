@@ -1,0 +1,21 @@
+1.
+-- How to break an infinite loop using break keyword!
+for i in range(10): 
+ print(i, end=" ")
+ if i == 9:
+   break
+2.
+- What is nested list?
+Nested list là danh sách l?ng nhau
+- Can a list store both integers and strings in it?
+Có
+3.
+-- How to delete an item in a list!
+a = ['a', 'b', 'c', 'd']
+a.remove('b')
+print(*a, sep=', ')
+-or
+a = ['a', 'b', 'c', 'd']
+b = a.index(3)
+del a[b]
+print(*a, sep=', ')
