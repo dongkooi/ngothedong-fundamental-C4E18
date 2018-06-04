@@ -6,9 +6,9 @@ for i in range(10):
    break
 2.
 - What is nested list?
-Nested list là danh sách l?ng nhau
+Nested list lÃ  danh sÃ¡ch lá»“ng nhau
 - Can a list store both integers and strings in it?
-Có
+CÃ³
 3.
 -- How to delete an item in a list!
 a = ['a', 'b', 'c', 'd']
