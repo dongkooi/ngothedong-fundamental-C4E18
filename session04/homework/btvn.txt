@@ -1,0 +1,16 @@
+1.
+-- What are the main functional differences between a while and a for?
+- Vòng l?p while cho phép l?p vô th?i h?n và không bi?t tru?c du?c s? l?n l?p, còn vòng l?p for thì ngu?c l?i.
+2.
+-- What’s the difference between break and continue?
+- L?nh "break" là dùng d? d?ng vòng l?p t?i dòng có câu l?nh "break", nó s? thoát ra kh?i vòng l?p g?n nh?t và d?ng các câu l?nh sau nó.
+- L?nh continue du?c s? d?ng d? b? qua ph?n còn l?i c?a code bên trong vòng l?p, áp d?ng cho l?n l?p hi?n t?i. Nghia là vòng l?p không ch?m d?t, nó s? ti?p t?c v?i l?n l?p k? ti?p.
+3.
+-- When is a loop’s else clause executed?
+- Kh?i l?nh trong "else" du?c th?c hi?n khi và ch? khi di?u ki?n c?a if bên trên nó sai!
+4.
+-- How can you code a counter-based loop in Python?
+- Khi mình bi?t du?c l?p du?c bao nhiêu l?n thì mình s? dùng vòng l?p Counter Controlled Loop.
+5. 
+-- What can a range be used for in a for loop?
+- Kho?ng l?p c?a vòng l?p for là kho?ng l?p bi?t tru?c.
